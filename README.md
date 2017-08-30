@@ -1,2 +1,2 @@
 # ApkInfoTools
-apk windows 工具
+windows apk信息查看工具
