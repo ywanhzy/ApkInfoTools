@@ -1,2 +1,10 @@
 # ApkInfoTools
-apk windows 工具
+windows apk信息查看工具
+
+效果图
+-----------------------------------
+
+![效果图](/screenshort/ss.gif "效果图")
+
+### Demo
+[Download Demo](/ApkInfoTools.zip)
